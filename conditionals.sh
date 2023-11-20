@@ -11,3 +11,11 @@ then
 else
     echo "Definitivamente sos basura"
 fi
+
+###
+
+if [ 1 -gt 0 ]
+then
+    echo '1 es mas grande que 0'
+fi
+
